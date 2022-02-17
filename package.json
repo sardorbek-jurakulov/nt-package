@@ -1,0 +1,27 @@
+{
+  "name": "najot-talim",
+  "version": "1.0.0",
+  "description": "\"Najot ta'lim\" education center information package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sardorbek-jurakulov/nt-package.git"
+  },
+  "keywords": [
+    "NT",
+    "Najot Ta'lim",
+    "Najot Talim",
+    "najot ta'lim",
+    "najot talim",
+    "education center"
+  ],
+  "author": "Sardorbek Jo'raqulov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sardorbek-jurakulov/nt-package/issues"
+  },
+  "homepage": "https://github.com/sardorbek-jurakulov/nt-package#readme"
+}
