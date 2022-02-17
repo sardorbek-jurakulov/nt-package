@@ -10,17 +10,17 @@ const thirdBranchWorkingTimes = "09:00 - 19:00";
 
 const firstBranchInfo = {
   address: firstBranchAddress,
-  WorkingTimes: firstBranchWorkingTimes
+  workingTimes: firstBranchWorkingTimes
 }
 
 const secondBranchInfo = {
   address: secondBranchAddress,
-  WorkingTimes: secondBranchWorkingTimes
+  workingTimes: secondBranchWorkingTimes
 }
 
 const thirdBranchInfo = {
   address: thirdBranchAddress,
-  WorkingTimes: thirdBranchWorkingTimes
+  workingTimes: thirdBranchWorkingTimes
 }
 
 const CoFounder = (founderName) => {
