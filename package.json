@@ -1,6 +1,6 @@
 {
   "name": "najot-talim",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "\"Najot ta'lim\" education center information package",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "Najot Talim",
     "najot ta'lim",
     "najot talim",
-    "education center"  
+    "education center"
   ],
   "author": "Sardorbek Jo'raqulov",
   "license": "ISC",
